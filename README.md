@@ -6,7 +6,11 @@
 *April, 2024.*
 
 ---
+### Languages Used
 
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
+---
 ### **Overview**
 This repository contains a **Python-based data analysis script** for evaluating reaction times in a **touchscreen behavioral task**. The script processes data from multiple subjects and performs statistical analysis to assess performance differences and trends in reaction times.
 
